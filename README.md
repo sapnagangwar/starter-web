@@ -9,7 +9,7 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+##Introduction from Master on Mar 2018
 
 This is an example is to show different parts of the Git repository and various commands using a web project
 
@@ -17,17 +17,17 @@ This is an example is to show different parts of the Git repository and various 
 
 As stated above , the main purpose is to provide examples
 
-## Deployment by TestFeature Branch and updated and updated now
+## Deployment by TestFeature Branch and updated and updated now from Master 2018
 
 this is an example of web project 
 
-##How to contribute by Branch
+##How to contribute by Master 2018
 
 
 Please eview this repository and make a fork and pull the changes
 
 
-###Copyright updated at remote
+###Copyright updated at remotefrom Master 2018
 
 2014 Git.Training BYY BRANCH feature
 
