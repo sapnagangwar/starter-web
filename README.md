@@ -9,25 +9,25 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction from Master on Mar 2018
+##Introduction from Branch on Mar 2018
 
 This is an example is to show different parts of the Git repository and various commands using a web project
 
-## Purpose
+## Purpose Branch 2018
 
 As stated above , the main purpose is to provide examples
 
-## Deployment by TestFeature Branch and updated and updated now from Master 2018
+## Deployment by TestFeature Branch and updated and updated now from Branch 2018
 
 this is an example of web project 
 
-##How to contribute by Master 2018
+##How to contribute by Branch 2018
 
 
 Please eview this repository and make a fork and pull the changes
 
 
-###Copyright updated at remotefrom Master 2018
+###Copyright updated at remotefrom branch 2018
 
 2014 Git.Training BYY BRANCH feature
 
