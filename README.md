@@ -1,7 +1,7 @@
 adding a line to check commit diff
 adding a line for mergeconflict
 Addind a line for rebasing example,then more changes for my feature branch too
-# Starter Web Repostories updated from master Mar 2018
+# Starter Web Repostories updated from master Mar 2019
 
 This repository is for showing how Git and GitHub work
 
