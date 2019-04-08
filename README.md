@@ -6,7 +6,6 @@ This repository is for showing how Git and GitHub work
 
 This is an example is to show different parts of the Git repository and various commands using a web project
 
-## Purpose Branch 2018
 
 As stated above , the main purpose is to provide examples
 
@@ -14,7 +13,6 @@ As stated above , the main purpose is to provide examples
 
 this is an example of web project 
 
-##How to contribute by Branch 2018
 
 
 Please eview this repository and make a fork and pull the changes
